@@ -1,0 +1,29 @@
+<!-- res/values/arrays.xml -->
+<resources>
+    <string-array name="laptop_items">
+        <item>Laptop 1</item>
+        <item>Laptop 2</item>
+        <item>Laptop 3</item>
+        <item>Laptop 4</item>
+        <item>Laptop 5</item>
+        <!-- Tambahkan item-item laptop lainnya sesuai kebutuhan -->
+    </string-array>
+
+    <string-array name="hp_items">
+        <item>hp 1</item>
+        <item>hp 2</item>
+        <item>hp 3</item>
+        <item>hp 4</item>
+        <item>hp 5</item>
+        <!-- Tambahkan item-item hp lainnya sesuai kebutuhan -->
+    </string-array>
+
+    <string-array name="tablet_items">
+        <item>tablet 1</item>
+        <item>tablet 2</item>
+        <item>tablet 3</item>
+        <item>tablet 4</item>
+        <item>tablet 5</item>
+        <!-- Tambahkan item-item tablet lainnya sesuai kebutuhan -->
+    </string-array>
+</resources>
